@@ -1,0 +1,13 @@
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\bin\Debug\Fractile Summative.exe.config
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\bin\Debug\Fractile Summative.exe
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\bin\Debug\Fractile Summative.pdb
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\obj\Debug\Fractile Summative.csprojAssemblyReference.cache
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\obj\Debug\Fractile_Summative.fractalForm.resources
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\obj\Debug\Fractile_Summative.Properties.Resources.resources
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\obj\Debug\Fractile Summative.csproj.GenerateResource.cache
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\obj\Debug\Fractile Summative.csproj.CoreCompileInputs.cache
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\obj\Debug\Fractile Summative.exe
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\obj\Debug\Fractile Summative.pdb
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\bin\Debug\MathNet.Numerics.dll
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\bin\Debug\MathNet.Numerics.xml
+C:\Users\drmeh\source\repos\Fractile Summative\Fractile Summative\obj\Debug\Fractile Summative.csproj.CopyComplete
